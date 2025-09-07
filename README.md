@@ -35,7 +35,7 @@ Esse tipo de modelo funciona bem para problemas simples e binários.
 
 ### ▶️ Como executar
 1. Tenha o **Python 3** instalado.  
-2. Salve o código como `perceptron.py`.  
+2. Salve o código como `main.py`.  
 3. Execute no terminal:  
    ```bash
-   python perceptron.py
+   python main.py
